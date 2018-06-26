@@ -5,7 +5,7 @@
 The screenshot of running the app from IDEA is saved in the "cscis71-hello-world/screenshots" folder.
 
 ## Homework Description: 
-Download and install IDEA and use it to create a Hello World command line app. This Hello World will take one command line argument (student name), and output the text "Hello, student-name!".
+Download and install IDEA and use it to create a Hello World command line app. This Hello World will take one command line argument (student-name), and output the text "Hello, student-name!".
 
 ## Purpose: 
 The purpose of this homework is to make sure that students are prepared for the technical class sessions and assignments later in the semester. 
