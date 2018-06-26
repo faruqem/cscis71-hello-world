@@ -1,5 +1,5 @@
 # CSCI S-71 Setup Your Environment Assignment
-## Student: Mohiuddin Faruqe
+## Student: Md Mohiuddin Faruqe
 
 ## Screenshots:
 The screenshot of running the app from IDEA is saved in the "cscis71-hello-world/screenshots" folder.
